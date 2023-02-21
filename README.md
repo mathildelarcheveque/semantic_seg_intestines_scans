@@ -1,8 +1,7 @@
 # Deep neural networks models comparison for intestines scans segmentation with transfer learning
 
 This folder contains:
-- The final report of this project 
-- A video of 5min describing the project 
+- The final report of this project
 - Python files containing the code for the pre processing of the images, and the training and evaluation of the models.
 
 
