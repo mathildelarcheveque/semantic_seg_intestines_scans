@@ -4,6 +4,7 @@ This folder contains:
 - The final report of this project 
 - A video of 5min describing the project 
 - Python files containing the code for the pre processing of the images, and the training and evaluation of the models.
+- Three trained models in the `models\` folder. 
 
 
 ## Dataset 
@@ -16,7 +17,7 @@ It is composed of around 17'000 images and a csv file containing the pixel lists
 
 ## Mask R-CNN code
 
-The code for the pre process, training and visualising the Mask R-CNN model is in the jupyter notebook `...`.
+The code for the pre process, training and visualising the Mask R-CNN model is in the jupyter notebook `DL_Mask_R_CNN.ipynb`.
 
 
 ## Unet, Unet++ and combined model codes
