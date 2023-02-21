@@ -4,7 +4,6 @@ This folder contains:
 - The final report of this project 
 - A video of 5min describing the project 
 - Python files containing the code for the pre processing of the images, and the training and evaluation of the models.
-- Three trained models in the `models\` folder. 
 
 
 ## Dataset 
